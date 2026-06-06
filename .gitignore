@@ -1,0 +1,12 @@
+# Datos y modelos
+data/
+models/
+
+# Entornos virtuales y caché
+.venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
