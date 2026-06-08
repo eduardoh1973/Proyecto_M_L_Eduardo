@@ -1,12 +1,9 @@
-# Datos y modelos
+# Archivos de datos y modelos
 data/
 models/
 
-# Entornos virtuales y caché
-.venv/
-env/
+# Carpetas y archivos de sistema/entorno
 __pycache__/
 .ipynb_checkpoints/
-
-# Sistema operativo
+.env
 .DS_Store
